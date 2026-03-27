@@ -1,0 +1,18 @@
+{
+  "$metadata": {
+    "system": "primitives",
+    "version": "1.0.0",
+    "status": "locked",
+    "units": {
+      "spacing": "px",
+      "dimension": "px",
+      "radius": "px",
+      "fontSize": "px",
+      "lineHeight": "unitless",
+      "letterSpacing": "em"
+    },
+    "base": {
+      "spacing": 4
+    }
+  }
+}
