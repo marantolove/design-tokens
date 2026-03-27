@@ -1,0 +1,6 @@
+{
+  "name": "@seu-ds/tokens",
+  "version": "1.0.0",
+  "description": "Design System Tokens",
+  "main": "tokens/primitives.json"
+}
